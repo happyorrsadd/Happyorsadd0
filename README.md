@@ -1,4 +1,4 @@
-<img sr= "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align = "right" width = "180" height = "270">
+<iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
 <h1 align="center">Hi 👋, I'm Oğulcan</h1>
 <h3 align="center">Security Researcher / Pentester / AWS Student</h3>
 
