@@ -20,3 +20,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=happyorsadd0&show_icons=true&locale=en" alt="happyorsadd0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=happyorsadd0&" alt="happyorsadd0" /></p>
+![snake gif](https://github.com/Happyorsadd0/Happyorsadd0/blob/output/github-contribution-grid-snake.gif)
