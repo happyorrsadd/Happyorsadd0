@@ -1,3 +1,4 @@
+<img sr= "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align = "right" width = "180" height = "270">
 <h1 align="center">Hi 👋, I'm Oğulcan</h1>
 <h3 align="center">Security Researcher / Pentester / AWS Student</h3>
 
