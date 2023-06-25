@@ -16,9 +16,8 @@ Hi 👋, I'm Oğulcan  <br>Security Researcher / Pentester / AWS Student<br>🔭
 [![](https://gtce.itsvg.in/api?username=@Happyorsadd0)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270"/>
 
----
 [![](https://visitcount.itsvg.in/api?id=Happyorsadd0&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
