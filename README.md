@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Oğulcan  <br>DevOps Analyst / Jr. Vulnability Researcher/ <br>🔭 I’m currently working on Cyber Security/Cloud Security<br><br>💬 Ask me about ogulcandoganzz@gmail.com
+Hi 👋, I'm Oğulcan  <br>DevOps Analyst / Jr. Vulnerability Researcher<br>🔭 I’m currently working on Cyber Security/Cloud Security<br><br>💬 Ask me about ogulcandoganzz@gmail.com
 
 
 ## 🌐 Socials:
